@@ -54,4 +54,4 @@ Logic :
 >>      1, 2 can contribute to sum 3<br/>
 
 >      similary, the spots are calculated and based on the condition when the spot in DieA is > 4 then it is added to DieB.
-![Screenshot (241)](https://github.com/2126ReshmaB/The-Doomed-Dice-Challenge/assets/118461173/15cf8656-3fb2-4fa9-8720-2e499286700e)
+![Screenshot (245)](https://github.com/2126ReshmaB/The-Doomed-Dice-Challenge/assets/118461173/3b48b415-70d7-48bd-85ee-9d215d822058)
