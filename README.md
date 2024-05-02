@@ -48,10 +48,10 @@ Logic :
 
 ## 4 . The output of Loki.java
 Logic :
->Traversing the frequency map and verifying each spot in both dies can contribute to the sum.<br/>
->>For eg, A = [1,2,3,4,5,6] <br/>
->>here, 1 can only contribute to sum 2<br/>
->>      1, 2 can contribute to sum 3<br/>
++ Calculate the original probabilities for each sum.
++ Determine the possible combinations of spots on the new dice that would yield the same probabilities for each sum.
++ Reattach the spots accordingly.
 
 >      similary, the spots are calculated and based on the condition when the spot in DieA is > 4 then it is added to DieB.
-![Screenshot (245)](https://github.com/2126ReshmaB/The-Doomed-Dice-Challenge/assets/118461173/3b48b415-70d7-48bd-85ee-9d215d822058)
+![Screenshot (269)](https://github.com/2126ReshmaB/The-Doomed-Dice-Challenge/assets/118461173/c2929ad0-6395-44c8-a97b-7c737207fc5b)
+
